@@ -1,0 +1,17 @@
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\bin\Debug\net8.0\PracticaAsignacion.Infrastructure.deps.json
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\bin\Debug\net8.0\PracticaAsignacion.Infrastructure.runtimeconfig.json
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\bin\Debug\net8.0\PracticaAsignacion.Infrastructure.dll
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\bin\Debug\net8.0\PracticaAsignacion.Infrastructure.pdb
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\bin\Debug\net8.0\PracticaAsignacion.Core.dll
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\bin\Debug\net8.0\PracticaAsignacion.Core.pdb
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.AssemblyInfo.cs
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\Practica.E4835E13.Up2Date
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.dll
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\refint\PracticaAsignacion.Infrastructure.dll
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.pdb
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\PracticaAsignacion.Infrastructure.genruntimeconfig.cache
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Infrastructure\obj\Debug\net8.0\ref\PracticaAsignacion.Infrastructure.dll

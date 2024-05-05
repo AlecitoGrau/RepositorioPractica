@@ -1,0 +1,11 @@
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\bin\Debug\net8.0\PracticaAsignacion.Core.deps.json
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\bin\Debug\net8.0\PracticaAsignacion.Core.dll
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\bin\Debug\net8.0\PracticaAsignacion.Core.pdb
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\PracticaAsignacion.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\PracticaAsignacion.Core.AssemblyInfoInputs.cache
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\PracticaAsignacion.Core.AssemblyInfo.cs
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\PracticaAsignacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\PracticaAsignacion.Core.dll
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\refint\PracticaAsignacion.Core.dll
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\PracticaAsignacion.Core.pdb
+C:\Users\agrau\source\repos\PracticaAsignacion\PracticaAsignacion.Core\obj\Debug\net8.0\ref\PracticaAsignacion.Core.dll

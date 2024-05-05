@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD7D73-C716-450B-8A67-C3E172C1A7BD}|PracticaAsignacion.Api\\PracticaAsignacion.Api.csproj|c:\\users\\agrau\\source\\repos\\practicaasignacion\\practicaasignacion.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DD7D73-C716-450B-8A67-C3E172C1A7BD}|PracticaAsignacion.Api\\PracticaAsignacion.Api.csproj|solutionrelative:practicaasignacion.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7271B86B-A2FB-4372-9452-11AACACF49BE}|PracticaAsignacion.Core\\PracticaAsignacion.Core.csproj|c:\\users\\agrau\\source\\repos\\practicaasignacion\\practicaasignacion.core\\entities\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7271B86B-A2FB-4372-9452-11AACACF49BE}|PracticaAsignacion.Core\\PracticaAsignacion.Core.csproj|solutionrelative:practicaasignacion.core\\entities\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD7D73-C716-450B-8A67-C3E172C1A7BD}|PracticaAsignacion.Api\\PracticaAsignacion.Api.csproj|c:\\users\\agrau\\source\\repos\\practicaasignacion\\practicaasignacion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DD7D73-C716-450B-8A67-C3E172C1A7BD}|PracticaAsignacion.Api\\PracticaAsignacion.Api.csproj|solutionrelative:practicaasignacion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD7D73-C716-450B-8A67-C3E172C1A7BD}|PracticaAsignacion.Api\\PracticaAsignacion.Api.csproj|c:\\users\\agrau\\source\\repos\\practicaasignacion\\practicaasignacion.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DD7D73-C716-450B-8A67-C3E172C1A7BD}|PracticaAsignacion.Api\\PracticaAsignacion.Api.csproj|solutionrelative:practicaasignacion.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Core\\Entities\\UserLogin.cs",
+              "RelativeDocumentMoniker": "PracticaAsignacion.Core\\Entities\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Core\\Entities\\UserLogin.cs",
+              "RelativeToolTip": "PracticaAsignacion.Core\\Entities\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:38:01.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Api\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "PracticaAsignacion.Api\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Api\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "PracticaAsignacion.Api\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:35:01.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PracticaAsignacion.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PracticaAsignacion.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:33:00.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaAsignacion.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\agrau\\source\\repos\\PracticaAsignacion\\PracticaAsignacion.Api\\Program.cs",
+              "RelativeToolTip": "PracticaAsignacion.Api\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC8AAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:17:13.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
